@@ -24,4 +24,5 @@ for (let index = 0; index < cars.length; index++) {
 
 }
 alert(mensagem);
+//console.log(mensagem);
     
